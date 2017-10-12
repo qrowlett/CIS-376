@@ -1,0 +1,14 @@
+body {
+ background: red;
+}
+img {
+	display: block; /*this overrides the inline styling of images for the user agent stylesheet
+	*/
+}
+
+#top{
+	text-decoration: underline;
+}
+ #link{
+	color: green;
+}

@@ -1,0 +1,28 @@
+body {
+	background-image: "http://farm3.static.flickr.com/2627/3950642472_6fe1353ab3_o.jpg" repeat-x; 
+    background-color: green;
+	
+}
+h1 {
+    color: red;
+	font-size: 200%;
+	text-align: center;
+	
+}
+img {  
+    width:50; 
+	height:100;
+
+}
+td {
+	padding-left:60px;
+	
+}
+th {
+	padding-right:60px,
+	
+}
+title {
+	text-align:center;
+	
+}

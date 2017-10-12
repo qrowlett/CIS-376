@@ -1,0 +1,44 @@
+div {
+
+display: block; 
+border: solid 1px; 
+}
+body {
+   background-color:  #cccccc;
+   background: url(http://clipartfan.com/free-clipart/sky-clouds-clipart-2-11682/);
+}
+#sun  {
+position: fixed; 
+top: 10%;
+right: 10%;
+height: 100px;
+width: 100px; 
+}
+
+#cat {
+position: fixed; 
+bottom: 15%;
+left: 30%;
+height: 20%;
+width: 10%; 
+}
+
+
+#tree {
+position: fixed; 
+right: 10%; 
+bottom: 18%;
+height: 15%;
+width: 10%; 
+
+}
+
+#grass {
+position: fixed; 
+bottom: 0%;
+height: 20%;
+width: 100%; 
+background-color: green; 
+margin: 0px; 
+padding: 0px; 
+}
