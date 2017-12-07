@@ -1,0 +1,20 @@
+body{
+/* insert background image*/
+  background-image:url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?h=350&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+  background-size: 2000px;
+}
+/* title & card attributes*/
+title{
+  background-color:blue;
+}
+.card {
+    background-color: cornflowerblue;
+    align: right;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
